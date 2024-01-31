@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+    <servidor>localhost</servidor>
+    <nombre>tienda</nombre>
+    <usuario>root</usuario>
+    <clave></clave>
+    <puerto>3307</puerto>
+</configuracion>
